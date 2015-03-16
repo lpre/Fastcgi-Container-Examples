@@ -1,0 +1,12 @@
+/.cproject
+/.project
+/.settings/
+/autom4te.cache/
+**/Makefile
+**/Makefile.in
+/Makefile
+/Makefile.in
+**/.deps/
+**/.libs/
+**/*.[oa]
+**/*.l[oa]
