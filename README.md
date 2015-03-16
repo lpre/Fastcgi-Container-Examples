@@ -17,8 +17,8 @@
 
 # Docs
 
-* [API](https://github.com/lpre/Fastcgi-Container/docs/API.md) (coming soon)
-* [C++ Page Compiler](https://github.com/lpre/Fastcgi-Container/page-compiler/docs/page_compiler.md)
+* [API](https://github.com/lpre/Fastcgi-Container/blob/master/docs/API.md) (coming soon)
+* [C++ Page Compiler](https://github.com/lpre/Fastcgi-Container/blob/master/page-compiler/docs/page_compiler.md)
 
 # Examples
 
